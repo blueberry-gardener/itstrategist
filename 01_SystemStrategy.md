@@ -48,6 +48,28 @@
 
 # 1-2. 業務プロセス
 
+## SFA：Sales Force Automation
+営業力強化のために、情報システムを活用し、営業活用を効率化すること。
+
+## BPR：Business Process Re-engineering
+M.Hammerは、顧客満足度を向上することを目的とし、ビジネスプロセスを根本的に考え直し、抜本的にデザインしなおすこと。
+
+- 価値ある業務上の成果を生み出すビジネスプロセスが対象
+- 基本部分から再設計
+- 新たな業務遂行方法を生み出す
+- 飛躍的な全体の改善を実現
+- 業務の最適な融合が目的
+- 情報技術が大きな役割を果たす
+
+## BPO：Business Process Outsourcing
+業務プロセス全体の委託
+
+## IDEAL
+- Initiating: 開始
+- Diagnosing: 診断
+- Establishing: 確立
+- Acting: 行動
+- Learning: 学習
+
 # 1-3. ソリューションビジネス・システムの活用促進
-
-
+特になし。
